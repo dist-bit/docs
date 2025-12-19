@@ -10,6 +10,8 @@
 
 ---
 
+el client id es 6944c469129d72c371916c21 API Key 1MAW6NW-021MHX9-28NQX48-183RP57 API Secret 68ae1abc-041a-47a9-915b-f488503c58a7
+
 ## Resumen Ejecutivo
 
 El sistema de extracción de documentos incluye un flujo completo de webhooks para integración con sistemas externos. Esta guía describe los 3 componentes principales que deben implementar:
